@@ -294,6 +294,11 @@ nav .container{
 
 }
 
+.header-content .btn{
+    padding: .85rem 3rem;
+    margin-right: 2rem;
+}
+
 header .points1 {
     width: 420px;
     bottom: -75px;
